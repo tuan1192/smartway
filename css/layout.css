@@ -121,7 +121,7 @@
 
 .slide-content {width: 50%; float: left; height: 450px; padding-top: 250px;}
 
-.slide-content h1, .slide-content h2 {letter-spacing: -2.5px; color: #fff; margin-bottom:8px; background: rgba(0,0,0,0.3); padding: 0 15px; font-size: 36px; line-height: 65px; display: table;}
+.slide-content h1, .slide-content h2 {letter-spacing: -0.5px; color: #fff; margin-bottom:8px; background: rgba(0,0,0,0.3); padding: 0 15px; font-size: 36px; line-height: 65px; display: table;}
 
 .slide-content h2 {-webkit-animation-delay: 0.3s; -moz-animation-delay: 0.3s; -ms-animation-delay: 0.3s; -o-animation-delay: 0.3s; animation-delay: 0.3s;}
 
